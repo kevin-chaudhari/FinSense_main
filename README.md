@@ -1,11 +1,11 @@
-# 💸 FinSense- AI-Powered Personal Finance Agent
+# FinSense- AI-Powered Personal Finance Agent
 
 > A smart, modular, agent-based personal finance assistant built using **LangChain**, **LangGraph**, **Gemini Pro**, and **FAISS**.  
 > From tracking expenses to providing contextual financial insights — your AI-driven wallet just got an upgrade.
 
 ---
 
-## 📌 Overview
+## Overview
 
 **FinSense AI** is a multi-agent personal finance system that understands natural language and helps you manage, analyze, and optimize your financial data.  
 This upgraded version introduces major architectural improvements:
@@ -19,22 +19,22 @@ This upgraded version introduces major architectural improvements:
 
 ---
 
-## 🧩 Key Features
+## Key Features
 
 | Feature | Description |
 |--------|-------------|
-| **🧾 Expense Tracker Agent** | Parses and logs expenses using natural language |
-| **💡 Financial Advisor Agent** | Generates personalized financial guidance |
-| **🧠 LangGraph Agents** | Modular multi-agent orchestration with persistent state |
-| **🔍 Vector Search (FAISS)** | Semantic retrieval for receipts, documents, and notes |
-| **🔗 LangChain Tool Integration** | Supports parsing, date handling, conversions, etc. |
-| **🪄 Gemini Pro LLM** | Fast, multi-turn financial analysis |
-| **📦 Local + Cloud Support** | Works offline via FAISS or online via Gemini API |
-| **🧱 Frontend Ready** | Can be extended into Streamlit or a React dashboard |
+| **Expense Tracker Agent** | Parses and logs expenses using natural language |
+| **Financial Advisor Agent** | Generates personalized financial guidance |
+| **LangGraph Agents** | Modular multi-agent orchestration with persistent state |
+| **Vector Search (FAISS)** | Semantic retrieval for receipts, documents, and notes |
+| **LangChain Tool Integration** | Supports parsing, date handling, conversions, etc. |
+| **Gemini Pro LLM** | Fast, multi-turn financial analysis |
+| **Local + Cloud Support** | Works offline via FAISS or online via Gemini API |
+| **Frontend Ready** | Can be extended into Streamlit or a React dashboard |
 
 ---
 
-## ⚙️ Tech Stack
+## Tech Stack
 
 - **LLM:** Gemini Pro (Google Generative AI SDK)  
 - **Frameworks:** LangChain, LangGraph  
@@ -45,12 +45,17 @@ This upgraded version introduces major architectural improvements:
 
 ---
 
-## 📦 Example Prompts
+## Example Prompts
 
-"Log $45 spent on groceries at Walmart yesterday"
-"How much did I spend on transportation this month?"
-"Am I saving more than last month?"
-"List and summarize all my subscriptions"
-"Based on my salary, what should be my ideal monthly budget?"
+-Log $45 spent on groceries at Walmart yesterday
+-How much did I spend on transportation this month?
+-Am I saving more than last month?
+-List and summarize all my subscriptions
+-Based on my salary, what should be my ideal monthly budget?
 
 ---
+
+## Author
+
+Kevinkumar Chaudhari
+chaudharikevin21@gmail.com
